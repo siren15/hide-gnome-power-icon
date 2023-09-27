@@ -1,0 +1,11 @@
+{
+  "description": "Hide the power icon in the quick settings area of the Gnome panel.", 
+  "name": "Hide power button icon", 
+  "shell-version": [
+    "44",
+    "44.2"
+  ], 
+  "url": "", 
+  "uuid": "hide-gnome-power-icon@siren15.github.com", 
+  "version": 1
+}
