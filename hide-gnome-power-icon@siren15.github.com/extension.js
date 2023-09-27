@@ -9,10 +9,6 @@ function enable() {
 }
 
 function disable() {
-    if (pwrIcon.visible) {
-        pass
-    } else {
-        pwrIcon.show()
-    }
+    pwrIcon.show()
 }
 
